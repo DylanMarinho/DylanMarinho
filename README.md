@@ -1,5 +1,5 @@
 👋 Hi, I’m @DylanMarinho
 
-👀 I'm a PostDoc working in the RST department of Télécom SudParis.
+👀 I'm Associate Professor at Sorbonne Université and LIP6.
 
 📫 To reach me: [https://dylan-marinho.gitlab.io](https://dylan-marinho.gitlab.io)
